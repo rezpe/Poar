@@ -1,4 +1,4 @@
-##  Sebastian Perez Vasseur 2012
+##  Sebastien Perez Vasseur 2012
 ##  This is a WSGI app that provides a RESTful interface for your CRUD apps
 
 
