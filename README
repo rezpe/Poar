@@ -1,4 +1,4 @@
-Poar - The easiest way to make your GAE apps RESTful compliant
+## Poar - The easiest way to make your GAE apps RESTful compliant
 
 Poar is a WSGI Application inside a Google App Engine Web App that handles data storage for your CRUD application and uses REST Protocol. I created it for my protoype applications where I needed a fast way to support this.
 
